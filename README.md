@@ -1,5 +1,9 @@
+![Python](https://img.shields.io/badge/Python-green)
+![Version](https://img.shields.io/badge/3.14.6-purple)
+
 # Python-learning-journey
-Portfolio of Python exercises and projects demonstrating applied problem‑solving and continuous skill development.
+Portfolio of Python exercises and projects demonstrating applied problem-solving and continuous skill development.
+
 
 ### Overview
 
